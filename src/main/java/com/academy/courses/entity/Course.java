@@ -31,7 +31,6 @@ public class Course {
     private Integer credits;
  
     //@ManyToOne
-    
     //@JoinColumn(name = "instructor_id")
     //private Instructor instructor;
  
